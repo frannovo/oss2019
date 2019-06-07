@@ -65,6 +65,7 @@ Thanks to the proliferation of automated security scanning tools we are generati
 ### Long-term Outcomes 
 
 1.  Publish Repo with Automation scripts
+    [Dealing with DevSecOps finding](https://github.com/frannovo/dwdsof)
 2.  Pull Request for Defect Dojo
 3.  Document process to handle findings
 
